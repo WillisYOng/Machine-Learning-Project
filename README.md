@@ -1,0 +1,1 @@
+In this project done at USC for a Machine Learning Class, I have analyzed roughly 13000 dry beans and used Perceptron, Random Forest Classifier, and Support Vector Machines to find the best classifier. 
